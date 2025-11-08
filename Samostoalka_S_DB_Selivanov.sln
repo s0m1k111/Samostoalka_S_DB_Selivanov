@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Samostoalka_S_DB_Selivanov", "Samostoalka_S_DB_Selivanov\Samostoalka_S_DB_Selivanov.csproj", "{BA9AE67A-C8DD-4909-BCCA-9DADE212619E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DB", "DB\DB.csproj", "{31849C33-FEFC-429B-B92B-55F4E2131666}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA9AE67A-C8DD-4909-BCCA-9DADE212619E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA9AE67A-C8DD-4909-BCCA-9DADE212619E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA9AE67A-C8DD-4909-BCCA-9DADE212619E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA9AE67A-C8DD-4909-BCCA-9DADE212619E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31849C33-FEFC-429B-B92B-55F4E2131666}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31849C33-FEFC-429B-B92B-55F4E2131666}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31849C33-FEFC-429B-B92B-55F4E2131666}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31849C33-FEFC-429B-B92B-55F4E2131666}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D9DC85E-E46A-49BC-B9A5-6A52AD7EEA2F}
+	EndGlobalSection
+EndGlobal
